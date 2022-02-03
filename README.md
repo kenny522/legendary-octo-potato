@@ -10,9 +10,9 @@ This assignment was to refactor the e-commerce platform from Activity 26 so that
 
 ## Installation
 
--   In the project root folder run `npm run install`.
--   In the project src folder  run `npm run install`.
--   In the project client folder run `npm run install`.
+-   In the root folder run `npm run install`.
+-   In the src folder  run `npm run install`.
+-   In the client folder run `npm run install`.
 
 ## Questions
 Contact me here [GitHub](https://github.com/kenny522) 
