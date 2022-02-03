@@ -15,4 +15,5 @@ This assignment was to refactor the e-commerce platform from Activity 26 so that
 -   In the project client folder run `npm run install`.
 
 ## Questions
+Contact me here [GitHub](https://github.com/kenny522) 
 
