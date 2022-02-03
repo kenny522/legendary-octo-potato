@@ -5,7 +5,6 @@ This assignment was to refactor the e-commerce platform from Activity 26 so that
 ## Table of Contents
 
 -   [Installation](#installation)
--   [Usage](#usage)
 -   [Questions](#questions)
 
 
